@@ -76,7 +76,7 @@ class App extends Component {
 render() {
     return (
       <Wrapper>
-        <Title>Friends List</Title>
+        <Title>Clicky Memory Game</Title>
 
         Your Current Score: {this.state.currentScore} Your Best Score: {this.state.highScore} 
 
