@@ -1,0 +1,16 @@
+.jumbotron {
+    background-image: url("./images/polaroids_background.jpg");
+    background-size: cover;
+}
+
+.container {
+    color: white;
+}
+
+/* h1 {
+    color: whitesmoke;
+}
+
+p {
+    color: white;
+} */
